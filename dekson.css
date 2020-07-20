@@ -1,0 +1,160 @@
+
+body,html{
+    margin: 0;
+    padding: 0;
+}
+
+.event{
+    background-color: #e6e0d4;;
+    width: 100%;
+    height: 300px;
+}
+
+.a{
+    position: relative;
+    color: navy;
+    font-family: 'calibri';
+    float: left;
+    left: 15%;
+    top: 100px;
+    font-size: 20pt;
+}
+
+.b{
+    position: relative;
+    color: black;
+    font-family: 'calibri';
+    font-size: 10pt;
+}
+
+.img{
+    margin-top: -168px;
+    margin-left: 370px;
+    width: 600px;
+    height: 300px;
+}
+
+.c{
+    position: relative;
+    color: navy;
+    font-family: 'calibri';
+    float: left;
+    left: 20%;
+    font-size: 8pt;
+}
+
+.d{
+    position: relative;
+    color: navy;
+    font-family: 'calibri';
+    float: right;
+    right: 100%;
+    font-size: 8pt;
+    margin-right: -1170px;
+}
+
+.e{
+    position: relative;
+    color: navy;
+    font-family: 'calibri';
+    float: left;
+    left: 35%;
+    font-size: 15pt;
+    text-align: center; 
+}
+
+.f{
+    position: relative;
+    color: black;
+    font-family: 'calibri';
+    float: left;
+    left: 37%;
+    font-size: 9pt;
+    text-align: center;
+}
+
+.g{
+    position: relative;
+    color: black;
+    font-family: 'calibri';
+    float: left;
+    left: 40%;
+    font-size: 10pt;
+    text-align: center;
+}
+
+.nama{
+    position: relative;
+    color: darkblue;
+    font-family: 'calibri';
+    float: left;
+    left: 35%;
+    font-size: 11pt;
+    text-align: center;
+}
+
+.ttl{
+    position: relative;
+    color: darkblue;
+    font-family: 'calibri';
+    float: left;
+    left: 35%;
+    font-size: 11pt;
+    text-align: center;
+}
+
+.ts{
+    position: relative;
+    color: darkblue;
+    font-family: 'calibri';
+    float: left;
+    left: 35%;
+    font-size: 11pt;
+    text-align: center;
+}
+
+.email{
+    position: relative;
+    color: darkblue;
+    font-family: 'calibri';
+    float: left;
+    left: 35%;
+    font-size: 11pt;
+    text-align: center;
+}
+
+.alamat{
+    position: relative;
+    color: darkblue;
+    font-family: 'calibri';
+    float: left;
+    left: 35%;
+    font-size: 11pt;
+    text-align: center;
+}
+
+.icon{
+    width: 20px;
+    height: 20px;
+    float: left;
+    left: 61%;
+}
+
+.df{
+    position: relative;
+    color: darkblue;
+    font-family: 'calibri';
+    float: left;
+    left: 61%;
+    font-size: 11pt;
+}
+
+.i{
+    position: relative;
+    color: darkgrey;
+    float: right;
+    right: 35%;
+    width: 20%;
+    margin-top: 1.5%;
+}
+
